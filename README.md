@@ -11,9 +11,9 @@ Escolhemos um banco de dados relacional devido a:
 - Alto desempenho em buscas utilizando consultas de dados.
 
 ## Escolha da linguagem Utilizada / MySql
-Há possibilidade de utilização em várias linguagens de programação;
-Independentemente da quantidade de dados e números de consultas no sistema, o desempenho do MySQL é alto e eficiente;
-O MySQL tem alta estabilidade, disponibilidade e confiabilidade no seu armazenamento e no gerenciamento dos dados inseridos no banco;
+- Há possibilidade de utilização em várias linguagens de programação;
+- Independentemente da quantidade de dados e números de consultas no sistema, o desempenho do MySQL é alto e eficiente;
+- O MySQL tem alta estabilidade, disponibilidade e confiabilidade no seu armazenamento e no gerenciamento dos dados inseridos no banco;
 
 ## MER
 ![MER](https://github.com/Tech-Challenge-FIAP-GLR/rds_techchallenge/assets/31673865/df3d68f5-c2a9-4bb6-ba23-eb978785fee6)
